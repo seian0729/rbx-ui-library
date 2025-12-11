@@ -1,5 +1,5 @@
 # Seian - Rbx UI Libary
-Open source ui library
+Open source (spaghetti code) ui library
 
 ## List UI
 
